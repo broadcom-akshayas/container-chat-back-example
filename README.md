@@ -30,7 +30,6 @@ $ npm test
 ```bash
 $ npm run start:echo
 ```
-
 * This will start up the `client` and the `API`.
 * Open the client on browser: `http://localhost:1234/`
 * Type and send message, in browser console must appear:
